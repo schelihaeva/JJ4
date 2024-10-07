@@ -7,7 +7,7 @@ import java.util.Random;
 @Table(name = "students")
 public class Student {
 
-    private static final String[] names = new String[] { "Анатолий", "Глеб", "Клим", "Мартин", "Лазарь", "Владлен", "Клим", "Панкратий", "Рубен", "Герман" };
+    private static final String[] names = new String[] { "Савелий", "Арте", "Алексей", "Никита", "Илья", "Дмитрий", "Саша", "Антон", "Руслан", "Гоша" };
     private static final Random random = new Random();
 
     @Id
